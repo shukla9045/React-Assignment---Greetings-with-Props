@@ -4,9 +4,9 @@ import Welcome from "./Welcome.js";
 
 const App = () => {
   return (
-    <>
-      <Welcome name={"Rahul"} />
-    </>
+    <div id="main">
+      <Welcome name={"saurabh"} />
+    </div>
   );
 };
 
